@@ -15,18 +15,18 @@
   "configs" : [
     {
       "enable" : true,
-      "password" : "freess_sandyvpsisverynice",
+      "password" : "sandy_got_an_vps",
       "method" : "aes-256-cfb",
       "remarks" : "sandy",
-      "server" : "google.sandyplus.com",
+      "server" : "23.105.202.14",
       "obfs" : "plain",
       "protocol" : "origin",
-      "server_port" : 1987,
+      "server_port" : 7891,
       "remarks_base64" : "c2FuZHk="
     },
     {
       "enable" : true,
-      "password" : "freess_6et6vA",
+      "password" : "6et6vA_is_enough",
       "method" : "aes-256-cfb",
       "remarks" : "startss",
       "server" : "103.53.199.158",
@@ -37,7 +37,7 @@
     },
     {
       "enable" : true,
-      "password" : "freess_sandyvpsisverynice",
+      "password" : "sandy_got_an_vps",
       "method" : "aes-256-cfb",
       "remarks" : "sandy IPv6",
       "server" : "2607:8700:108:5eed::",
@@ -48,7 +48,7 @@
     },
     {
       "enable" : true,
-      "password" : "freess_sandyvpsisverynice",
+      "password" : "sandy_got_an_vps",
       "method" : "aes-256-cfb",
       "remarks" : "sandy IPv6 2",
       "server" : "2607:8700:0108:5eed:1234:5678:1987:0512",
@@ -59,7 +59,7 @@
     },
     {
       "enable" : true,
-      "password" : "freess_epix4321epix4321",
+      "password" : "epix4321epix4321_not_bad",
       "method" : "chacha20",
       "remarks" : "excellent IPv6",
       "server" : "2604:a880:1:20::2e37:d001",
@@ -70,7 +70,7 @@
     },
     {
       "enable" : true,
-      "password" : "freess_doub.io_snh48-7senses-akira",
+      "password" : "doub.io_snh48-7senses-akira_not_bad",
       "method" : "aes-256-cfb",
       "remarks" : "excellent",
       "server" : "45.32.40.179",
@@ -81,7 +81,7 @@
     },
     {
       "enable" : true,
-      "password" : "freess_epix4321epix4321",
+      "password" : "epix4321epix4321_not_bad",
       "method" : "chacha20",
       "remarks" : "very good IPv6",
       "server" : "2604:a880:1:20::2d04:9001",
@@ -92,7 +92,7 @@
     },
     {
       "enable" : true,
-      "password" : "freess_doub.io",
+      "password" : "doub.io_not_bad",
       "method" : "aes-128-ctr",
       "remarks" : "very good",
       "server" : "162.243.153.224",
@@ -103,10 +103,10 @@
     },
     {
       "enable" : true,
-      "password" : "freess_bX47xjHAU62eR3Xn",
+      "password" : "bX47xjHAU62eR3Xn_not_bad",
       "method" : "chacha20",
       "remarks" : "very good",
-      "server" : "niub.ml",
+      "server" : "45.63.14.176",
       "obfs" : "tls1.2_ticket_auth",
       "protocol" : "auth_aes128_md5",
       "server_port" : 443,
@@ -114,18 +114,7 @@
     },
     {
       "enable" : true,
-      "password" : "freess_epix4321epix4321",
-      "method" : "chacha20",
-      "remarks" : "very good",
-      "server" : "138.68.198.10",
-      "obfs" : "plain",
-      "protocol" : "origin",
-      "server_port" : 4321,
-      "remarks_base64" : "dmVyeSBnb29k"
-    },
-    {
-      "enable" : true,
-      "password" : "freess_epix4321epix4321",
+      "password" : "epix4321epix4321_not_bad",
       "method" : "chacha20",
       "remarks" : "very good",
       "server" : "107.170.207.19",
@@ -136,117 +125,7 @@
     },
     {
       "enable" : true,
-      "password" : "freess_epix4321epix4321",
-      "method" : "none",
-      "remarks" : "very good",
-      "server" : "165.227.0.119",
-      "obfs" : "plain",
-      "protocol" : "origin",
-      "server_port" : 4321,
-      "remarks_base64" : "dmVyeSBnb29k"
-    },
-    {
-      "enable" : true,
-      "password" : "freess_doub.io",
-      "method" : "chacha20",
-      "remarks" : "good",
-      "server" : "103.219.20.111",
-      "obfs" : "tls1.2_ticket_auth",
-      "protocol" : "auth_sha1_v4",
-      "server_port" : 443,
-      "remarks_base64" : "Z29vZA=="
-    },
-    {
-      "enable" : true,
-      "password" : "freess_doub.io33205",
-      "method" : "chacha20",
-      "remarks" : "good",
-      "server" : "64.137.243.186",
-      "obfs" : "plain",
-      "protocol" : "origin",
-      "server_port" : 33205,
-      "remarks_base64" : "Z29vZA=="
-    },
-    {
-      "enable" : true,
-      "password" : "freess_doub.io33205",
-      "method" : "chacha20",
-      "remarks" : "good",
-      "server" : "45.62.245.70",
-      "obfs" : "plain",
-      "protocol" : "origin",
-      "server_port" : 33205,
-      "remarks_base64" : "Z29vZA=="
-    },
-    {
-      "enable" : true,
-      "password" : "freess_doub.io_snh48-7senses-akira",
-      "method" : "aes-256-cfb",
-      "remarks" : "good",
-      "server" : "149.56.76.220",
-      "obfs" : "tls1.2_ticket_auth",
-      "protocol" : "auth_chain_a",
-      "server_port" : 7340,
-      "remarks_base64" : "Z29vZA=="
-    },
-    {
-      "enable" : true,
-      "password" : "freess_doub.io2333",
-      "method" : "none",
-      "remarks" : "good",
-      "server" : "107.172.145.155",
-      "obfs" : "plain",
-      "protocol" : "auth_chain_a",
-      "server_port" : 2333,
-      "remarks_base64" : "Z29vZA=="
-    },
-    {
-      "enable" : true,
-      "password" : "freess_viewss",
-      "method" : "chacha20",
-      "remarks" : "good",
-      "server" : "5.196.204.58",
-      "obfs" : "http_simple",
-      "protocol" : "auth_sha1_v4",
-      "server_port" : 1000,
-      "remarks_base64" : "Z29vZA=="
-    },
-    {
-      "enable" : true,
-      "password" : "freess_SGz7dqReRY",
-      "method" : "aes-256-cfb",
-      "remarks" : "good",
-      "server" : "198.46.242.216",
-      "obfs" : "tls1.2_ticket_auth",
-      "protocol" : "auth_sha1_v4",
-      "server_port" : 9008,
-      "remarks_base64" : "Z29vZA=="
-    },
-    {
-      "enable" : true,
-      "password" : "freess_doub.io",
-      "method" : "aes-128-ctr",
-      "remarks" : "good",
-      "server" : "63.223.75.62",
-      "obfs" : "tls1.2_ticket_auth",
-      "protocol" : "auth_sha1_v4",
-      "server_port" : 2333,
-      "remarks_base64" : "Z29vZA=="
-    },
-    {
-      "enable" : true,
-      "password" : "freess_doub.io33205",
-      "method" : "chacha20",
-      "remarks" : "ok",
-      "server" : "64.137.246.93",
-      "obfs" : "plain",
-      "protocol" : "origin",
-      "server_port" : 33205,
-      "remarks_base64" : "b2s="
-    },
-    {
-      "enable" : true,
-      "password" : "freess_doub.io",
+      "password" : "doub.io_not_bad",
       "method" : "chacha20",
       "remarks" : "ok",
       "server" : "104.233.69.78",
@@ -257,7 +136,7 @@
     },
     {
       "enable" : true,
-      "password" : "freess_mmmmmmmm",
+      "password" : "mmmmmmmm_not_bad",
       "method" : "aes-128-cfb",
       "remarks" : "ok",
       "server" : "104.156.250.247",
@@ -268,47 +147,47 @@
     },
     {
       "enable" : true,
-      "password" : "freess_namaho.org+sandy",
-      "method" : "chacha20-ietf",
-      "remarks" : "hk.namaho",
-      "server" : "hk.bilibilitv.pw",
-      "obfs" : "plain",
-      "protocol" : "origin",
-      "server_port" : 19110,
-      "remarks_base64" : "aGsubmFtYWhv"
-    },
-    {
-      "enable" : true,
-      "password" : "freess_namaho.org+sandy",
-      "method" : "chacha20-ietf",
-      "remarks" : "jp.namaho",
-      "server" : "jp.bilibilitv.pw",
-      "obfs" : "plain",
-      "protocol" : "origin",
-      "server_port" : 19110,
-      "remarks_base64" : "anAubmFtYWhv"
-    },
-    {
-      "enable" : true,
-      "password" : "freess_yuweining.cn",
+      "password" : "epix4321epix4321_not_bad",
       "method" : "chacha20",
-      "remarks" : "leifeng2",
-      "server" : "leifeng2.yuweining.cn",
+      "remarks" : "",
+      "server" : "107.170.207.19",
       "obfs" : "plain",
       "protocol" : "origin",
-      "server_port" : 888,
-      "remarks_base64" : "bGVpZmVuZzI="
+      "server_port" : 4321,
+      "remarks_base64" : ""
     },
     {
       "enable" : true,
-      "password" : "freess_yuweining.cn",
+      "password" : "epix4321epix4321_not_bad",
       "method" : "chacha20",
-      "remarks" : "leifeng1",
-      "server" : "leifeng1.yuweining.cn",
+      "remarks" : "",
+      "server" : "45.55.108.12",
       "obfs" : "plain",
       "protocol" : "origin",
-      "server_port" : 888,
-      "remarks_base64" : "bGVpZmVuZzE="
+      "server_port" : 4321,
+      "remarks_base64" : ""
+    },
+    {
+      "enable" : true,
+      "password" : "FreeSSR_not_bad",
+      "method" : "none",
+      "remarks" : "本账号来自:doub.io\/sszhfx",
+      "server" : "103.85.187.11",
+      "obfs" : "tls1.2_ticket_auth",
+      "protocol" : "auth_chain_a",
+      "server_port" : 443,
+      "remarks_base64" : "5pys6LSm5Y+35p2l6IeqOmRvdWIuaW8vc3N6aGZ4"
+    },
+    {
+      "enable" : true,
+      "password" : "epix4321epix4321_not_bad",
+      "method" : "chacha20",
+      "remarks" : "",
+      "server" : "2604:a880:1:20::2e37:d001",
+      "obfs" : "plain",
+      "protocol" : "origin",
+      "server_port" : 4321,
+      "remarks_base64" : ""
     }
   ],
   "proxyPort" : 0,
